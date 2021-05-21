@@ -1,0 +1,15 @@
+.header__lang-link {
+    color: #fff;
+    margin: 0;
+    padding: 0;
+    font-size: 1.5rem;
+    line-height: 1.75rem;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: none;
+}
+
+.header__lang-link:first-of-type {
+    text-decoration: underline;
+    padding-right: 1rem;
+}

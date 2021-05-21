@@ -1,0 +1,10 @@
+.head__subtitle {
+    margin: 2rem auto 3.5rem;
+    padding: 0;
+    max-width: 640px;
+    font-size: 1.875rem;
+    line-height: 2.25rem;
+    font-style: normal;
+    font-weight: normal;
+    text-align: center;
+}

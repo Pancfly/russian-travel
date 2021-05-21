@@ -1,0 +1,10 @@
+.places__title {
+    margin: 0;
+    max-width: 460px;
+    font-size: 4.5rem;
+    line-height: 4.75rem;
+    font-style: normal;
+    font-weight: bold;
+    grid-row: 1;
+    grid-column: 1;
+}
