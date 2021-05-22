@@ -7,7 +7,7 @@
     color: #FFF;
 }
   
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 767px) {
     .footer__author {
         max-width: 200px;
         margin-top: 48px;
