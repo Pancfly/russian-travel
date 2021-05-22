@@ -5,6 +5,7 @@
 @import url(./__link/places__link.css);
 @import url(./__wrapper/places__wrapper.css);
 @import url(./__image/places__image.css);
+@import url(./__paragraphs/places__paragraphs.css);
 @import url(./__paragraph/places__paragraph.css);
 
 .places {
@@ -25,12 +26,14 @@
     .places {
         max-width: 720px;
         padding-bottom: 90px;
+        grid-row-gap: 73px;
     }
 }
 
 @media screen and (max-width: 320px) {
     .places {
-        max-width: 320px;
+        max-width: 100%;
         padding-bottom: 66px;
+        grid-row-gap: 50px;
     }
 }

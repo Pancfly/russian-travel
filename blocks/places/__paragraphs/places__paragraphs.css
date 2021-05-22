@@ -1,14 +1,13 @@
-.places__website {
+.places__paragraphs {
     margin: 0;
-    grid-row: 1;
     grid-column: 2;
-    align-self: end;
+    grid-row: 2;
 }
 
 @media screen and (max-width: 320px) {
-    .places__website {
+    .places__paragraphs {
         padding: 0 16px;
         grid-column: 1;
-        grid-row: 2;
+        grid-row: 4;
     }
 }
