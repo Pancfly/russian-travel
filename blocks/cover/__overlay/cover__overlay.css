@@ -10,6 +10,7 @@
     justify-content: center;
     align-items: center;
     color: #fff;
+    position: relative;
 }
 
 .cover__overlay:before {
